@@ -1,4 +1,0 @@
-Solution	/Users/imac/leetcode/142. Linked List Cycle II.cpp	/^class Solution {$/;"	class	line:9	file:
-detectCycle	/Users/imac/leetcode/142. Linked List Cycle II.cpp	/^    ListNode *detectCycle(ListNode *head) {$/;"	function	line:11	class:Solution	signature:(ListNode *head)
-Solution	/Users/imac/leetcode/27. Remove Element.cpp	/^class Solution {$/;"	class	line:1	file:
-removeElement	/Users/imac/leetcode/27. Remove Element.cpp	/^    int removeElement(vector<int> &nums, int val) {$/;"	function	line:3	class:Solution	signature:(vector<int> &nums, int val)
