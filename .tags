@@ -1,0 +1,12 @@
+Solution	/Users/imac/leetcode/168. Excel Sheet Column Title.cpp	/^class Solution {$/;"	class	line:1	file:
+convertToTitle	/Users/imac/leetcode/168. Excel Sheet Column Title.cpp	/^    string convertToTitle(int n) {$/;"	function	line:3	class:Solution	signature:(int n)
+Solution	/Users/imac/leetcode/169. Majority Element.cpp	/^class Solution {$/;"	class	line:1	file:
+majorityElement	/Users/imac/leetcode/169. Majority Element.cpp	/^    int majorityElement(vector<int> &nums) {$/;"	function	line:3	class:Solution	signature:(vector<int> &nums)
+Solution	/Users/imac/leetcode/229. Majority Element II.cpp	/^class Solution {$/;"	class	line:1	file:
+majorityElement	/Users/imac/leetcode/229. Majority Element II.cpp	/^    vector<int> majorityElement(vector<int> &nums) {$/;"	function	line:3	class:Solution	signature:(vector<int> &nums)
+Solution	/Users/imac/leetcode/51. N-Queens.cpp	/^class Solution {$/;"	class	line:1	file:
+res	/Users/imac/leetcode/51. N-Queens.cpp	/^    vector<vector<string>> res;$/;"	member	line:3	class:Solution	file:
+ans	/Users/imac/leetcode/51. N-Queens.cpp	/^    vector<string> ans;$/;"	member	line:4	class:Solution	file:
+check	/Users/imac/leetcode/51. N-Queens.cpp	/^    bool check(int x, int y, vector<int> &col, int n) {$/;"	function	line:5	class:Solution	signature:(int x, int y, vector<int> &col, int n)
+solveNQueens	/Users/imac/leetcode/51. N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	function	line:27	class:Solution	signature:(int n)
+dfs	/Users/imac/leetcode/51. N-Queens.cpp	/^    void dfs(int row, vector<int> &col, int n) {$/;"	function	line:34	class:Solution	signature:(int row, vector<int> &col, int n)

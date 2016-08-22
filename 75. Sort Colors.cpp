@@ -36,7 +36,7 @@ class Solution {
             if (nums[i1] > nums[i2])
                 tmp[i3++] = nums[i2++];
             else
-                tmp[i3++] nums[i1++];
+                tmp[i3++] = nums[i1++];
         }
         while (i1 <= mid)
             tmp[i3++] = nums[i1++];
