@@ -12,7 +12,7 @@ class Solution {
     int dep;
     bool isBalanced(TreeNode *root) {
         if (!root)
-            true;
+            return true;
         int left = dfs(root->left);
         int right = dfs(root->right);
         return isBalanced(root->left) && isBalanced(root->right) &&
